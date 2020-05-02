@@ -121,4 +121,5 @@
         <allow-intent href="itms:*" />
         <allow-intent href="itms-apps:*" />
     </platform>
+    <icon src="img/dapoBija.png" />
 </widget>
